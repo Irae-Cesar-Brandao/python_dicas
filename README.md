@@ -7,5 +7,5 @@ Dicas de execução do programa Python e orientações e dicas de uso.
         Linguagens abordadas na elaboração foram: html e css3.
         Todos as orientações e links de origem e conclusão para elaboração do material foi feito
         em pesquisas a diversos sites, cujas referências estão contidas no próprio material.
-        
-        
+
+Endereço de acesso:  https://irae-cesar-brandao.github.io/python_dicas/  
