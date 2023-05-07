@@ -8,7 +8,12 @@ Dicas de execução do programa Python e orientações e dicas de uso.
         Todos as orientações e links de origem e conclusão para elaboração do material foi feito
         em pesquisas a diversos sites, cujas referências estão contidas no próprio material.
 
-Endereço de acesso:  https://irae-cesar-brandao.github.io/python_dicas/  
+
+<h7  style="color: lightblue; text-align: center;"> Endereço de acesso da página no Git: 
+	Empresa:  <a href="https://irae-cesar-brandao.github.io/python_dicas/  "  style="color: greenyellow;" target="_blank"> 
+	https://irae-cesar-brandao.github.io/python_dicas/  
+	</a></h7> 
+ 
 
 <h7  style="color: lightblue; text-align: center;"> &copy;  Iraê C. Brandão  2023 -  Todos os direitos reservados - Desenvolvedor Web / Gestor de TI / Empresário / Professor de Tecnologia/Oficina Multidisciplinar - <a href="https://www.linkedin.com/in/irae-cesar-brandao-a2112b69/" 
 		       style="color: greenyellow;" target="_blank"> 
