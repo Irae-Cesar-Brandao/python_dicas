@@ -16,8 +16,7 @@ Endereço de acesso:  https://irae-cesar-brandao.github.io/python_dicas/
 	</a></h7> 
 <br>
 
-	<h7  style="color: lightblue; text-align: center;">Curriculo Iraê - LUCK WAY® Informática.
-	Empresa:  <a href="http://luckway.com.br" 
-		       style="color: greenyellow;" target="_blank"> 
+<h7  style="color: lightblue; text-align: center;"> Curriculo Iraê César Brandão - LUCK WAY® Informática.
+	Empresa:  <a href="http://luckway.com.br"  style="color: greenyellow;" target="_blank"> 
 	https://luckway.com.br
 	</a></h7> 
