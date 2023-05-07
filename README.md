@@ -9,3 +9,15 @@ Dicas de execução do programa Python e orientações e dicas de uso.
         em pesquisas a diversos sites, cujas referências estão contidas no próprio material.
 
 Endereço de acesso:  https://irae-cesar-brandao.github.io/python_dicas/  
+
+<h7  style="color: lightblue; text-align: center;"> &copy;  Iraê C. Brandão  2023 -  Todos os direitos reservados - Desenvolvedor Web / Gestor de TI / Empresário / Professor de Tecnologia/Oficina Multidisciplinar - <a href="https://www.linkedin.com/in/irae-cesar-brandao-a2112b69/" 
+		       style="color: greenyellow;" target="_blank"> 
+	https://www.linkedin.com/in/irae-cesar-brandao-a2112b69/ 
+	</a></h7> 
+<br>
+
+	<h7  style="color: lightblue; text-align: center;">Curriculo Iraê - LUCK WAY® Informática.
+	Empresa:  <a href="http://luckway.com.br" 
+		       style="color: greenyellow;" target="_blank"> 
+	https://luckway.com.br
+	</a></h7> 
