@@ -1,0 +1,87 @@
+
+html> body{
+
+        	background: radial-gradient(circle, rgb(37, 38, 38) 0%, rgb(0, 6, 6) 81%);
+  	height: 100%;
+    	margin: 0;
+    	padding: 0;
+    	text-align: center;
+        	color: rgb(238, 233, 233);
+}
+
+h2 {
+	color: rgb(161, 219, 44);
+  	font-size: 60px;
+  	font-family: monospace;
+  	font-weight: bold;
+ 	text-align: center;
+  	text-shadow: 
+      	1px -1px 0 #2f5d87,
+      	2px -2px 0 #3c832e, 
+      	3px -3px 0 #f4f5f2;
+}
+
+h4 {
+    color: #fff;
+    font-size: 30px;
+    text-shadow: 
+      	1px -1px 0 #2f5d87,
+      	2px -2px 0 #2e5a83, 
+      	3px -3px 0 #2d5880;
+
+}
+
+h5{
+    	color: #fff;
+    	font-size: 20px;
+    	font-family: sans-serif;
+    	font-weight: italic;
+   	text-align: justify;
+    	text-shadow: 0 0 10px black;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+
+h6{
+		background-color: rgb(116, 109, 103);
+    	color: #c3ab55;
+    	font-size: 16px;
+    	font-family: sans-serif;
+    	font-weight: italic;
+   	text-align: justify;
+    	text-shadow: 0 0 10px black;
+	margin-top: 5px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	margin-left: 20px;
+}
+
+h7{
+	color: rgb(161, 219, 44);
+  	font-size: 10px;
+  	font-weight: bold;
+ 	text-align: center;
+
+
+
+}
+	    
+#pineal {
+         border-radius: 400px;
+}
+
+	    
+/* AJUSTANDO A IMAGEM AO TAMANHO DA JANELA*/
+@media only screen and (max-width: 480px) {
+  img {
+    width: 90%;
+  }
+}
+
+table, th, td {
+		border: 1px solid black;
+	
+}
+
