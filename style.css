@@ -9,6 +9,17 @@ html> body{
         	color: rgb(238, 233, 233);
 }
 
+#cabecalho {
+	color: rgb(127,255, 0);
+  	font-size: 60px;
+  	font-family: monospace;
+  	font-weight: bold;
+ 	text-align: center;
+  	text-shadow: 
+      	1px -1px 0 #2f5d87,
+      	2px -2px 0 #3c832e, 
+      	3px -3px 0 #f4f5f2;
+
 h2 {
 	color: rgb(161, 219, 44);
   	font-size: 40px;
