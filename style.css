@@ -6,7 +6,7 @@ html> body{
     	margin: 0;
     	padding: 0;
     	text-align: center;
-        	color: rgb(238, 233, 233);
+        color: rgb(238, 233, 233);
 }
 /* ESTILIZAÇÃO DO TITULO DO CABEÇALHO */
 h8 {
@@ -80,7 +80,7 @@ h7{
 
 
 }
-	    
+/* ESTILIZANDO AS IMAGENS */	    
 #pineal {
          border-radius: 400px;
 }
