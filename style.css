@@ -9,7 +9,7 @@ html> body{
         	color: rgb(238, 233, 233);
 }
 
-#cabecalho {
+.cabecalho {
 	color: rgb(127,255, 0);
   	font-size: 60px;
   	font-family: monospace;
