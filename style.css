@@ -25,7 +25,7 @@ html> body{
   content: "";
   position: absolute;
 }
-body {
+/*body {
   width: 100vw;
 
   height: 100vh;
@@ -34,7 +34,7 @@ body {
   display: grid;
   place-items: center;
   filter: saturate(130%) contrast(125%);
-}
+}*/
 #image {
   overflow: hidden;
   width: 80%;
