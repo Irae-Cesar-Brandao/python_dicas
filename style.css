@@ -9,7 +9,7 @@ html> body{
         	color: rgb(238, 233, 233);
 }
 /* ESTILIZAÇÃO DO CABEÇALHO */
-h8 {
+.cabecalho {
 	color: yellow;
   	font-size: 60px;
   	font-family: monospace;
