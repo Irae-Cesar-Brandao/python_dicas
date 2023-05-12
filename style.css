@@ -8,9 +8,9 @@ html> body{
     	text-align: center;
         	color: rgb(238, 233, 233);
 }
-
-.cabecalho {
-	color: rgb(127,255, 0);
+/* ESTILIZAÇÃO DO CABEÇALHO */
+h8 {
+	color: yellow;
   	font-size: 60px;
   	font-family: monospace;
   	font-weight: bold;
