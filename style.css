@@ -57,7 +57,7 @@ html> body{
   opacity: 0.2;
 }
 
-
+/*
 #ground {
   position: absolute;
   bottom: 0;
@@ -73,7 +73,7 @@ html> body{
     drop-shadow(0 0 7px cyan);
   animation: move 10s linear infinite;
 }
-
+*/
 #text {
   position: absolute;
   z-index: 10;
