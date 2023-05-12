@@ -34,7 +34,7 @@ html> body{
   display: grid;
   place-items: center;
   filter: saturate(130%) contrast(125%);
-}*/
+}
 #image {
   overflow: hidden;
   width: 80%;
@@ -47,7 +47,7 @@ html> body{
   border-color: darkmagenta magenta;
   outline: 8px ridge cyan;
   outline-offset: 4px;
-}
+}*/
 #top {
   height: 67%;
   background: linear-gradient(transparent 50%, hotpink 160%);
