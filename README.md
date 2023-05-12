@@ -15,8 +15,7 @@ Dicas de execução do programa Python e orientações e dicas de uso.
 	</a></h7> 
  
 
-<h7  style="color: lightblue; text-align: center;"> &copy;  Iraê C. Brandão  2023 -  Todos os direitos reservados - Desenvolvedor Web / Gestor de TI / Empresário / Professor de Tecnologia/Oficina Multidisciplinar - <a href="https://www.linkedin.com/in/irae-cesar-brandao-a2112b69/" 
-		       style="color: greenyellow;" target="_blank"> 
+<h7  style="color: lightblue; text-align: center;"> &copy;  Iraê C. Brandão  2023 -  Todos os direitos reservados - Desenvolvedor Web / Gestor de TI / Empresário / Professor de Tecnologia/Oficina Multidisciplinar - <a href="https://www.linkedin.com/in/irae-cesar-brandao-a2112b69/"  style="color: greenyellow;" target="_blank"> 
 	https://www.linkedin.com/in/irae-cesar-brandao-a2112b69/ 
 	</a></h7> 
 <br>
