@@ -28,8 +28,31 @@ h1 {
   animation: bg-shift 0.5s ease-in-out infinite alternate;
 }
 
-/* ESTILIZAÇÃO DEMAIS FONTES */
 h2 {
+  color: white;
+  font-family: "Yellowtail", cursive;
+  font-weight: 100;
+  font-size: 4em;
+  transform: translatey(-10px) rotatez(-5deg);
+  text-shadow: 0 0 3px magenta, 0 0 7px magenta, 0 0 15px black, 0 0 15px black;
+  animation: hover 1s ease-in-out infinite;
+}
+@keyframes move {
+  to {
+    background-position-y: 2000px;
+  }
+}
+@keyframes bg-shift {
+  0% {
+    background-position: 0 -25px;
+  }
+  100% {
+    background-position: 0 25px;
+  }
+}
+
+/* ESTILIZAÇÃO DEMAIS FONTES */
+/*h2 {
 	color: rgb(161, 219, 44);
   	font-size: 40px;
   	font-family: monospace;
@@ -39,7 +62,7 @@ h2 {
       	1px -1px 0 #2f5d87,
       	2px -2px 0 #3c832e, 
       	3px -3px 0 #f4f5f2;
-}
+}*/
 
 h4 {
     color: #fff;
