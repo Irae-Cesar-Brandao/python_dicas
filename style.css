@@ -48,13 +48,14 @@ body {
   border-color: darkmagenta magenta;
   outline: 8px ridge cyan;
   outline-offset: 4px;
-}*/
+}
 #top {
   height: 67%;
   background: linear-gradient(transparent 50%, hotpink 160%);
   box-shadow: 0 15px 50px 1px white;
   position: relative;
 }
+*/
 #sky {
   position: absolute;
   top: 0;
