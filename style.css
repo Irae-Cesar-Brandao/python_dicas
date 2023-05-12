@@ -10,17 +10,23 @@ html> body{
 }
 /* ESTILIZAÇÃO DO TITULO */
 h1 {
-	color: rgb(161, 219, 44);
-  	font-size: 40px;
-  	font-family: monospace;
-  	font-weight: bold;
- 	text-align: center;
-  	text-shadow: 
-      	1px -1px 0 #2f5d87,
-      	2px -2px 0 #3c832e, 
-      	3px -3px 0 #f4f5f2;
+  color: transparent;
+  font-family: "Russo One", sans-serif;
+  text-transform: uppercase;
+  font-size: 5em;
+  transform: translatey(25px);
+  background: linear-gradient(
+    cornflowerblue 30%,
+    white,
+    darkmagenta 60%,
+    cornflowerblue 100%
+  );
+  background-size: contain;
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 1px silver;
+  filter: drop-shadow(5px 5px 1px black) drop-shadow(1px 1px 1px magenta);
+  animation: bg-shift 0.5s ease-in-out infinite alternate;
 }
-
 
 /* ESTILIZAÇÃO DEMAIS FONTES */
 h2 {
