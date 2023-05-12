@@ -16,29 +16,7 @@ html> body{
   --pink: rgba(213, 84, 213, 1);
   --pink2: rgba(213, 84, 213, 0.7);
 }
-/*
-#image {
-  overflow: hidden;
-  width: 80%;
-  height: 55%;
-  background: var(--navy);
-  display: grid;
 
-  position: relative;
-  border: 8px solid;
-  border-color: darkmagenta magenta;
-  outline: 8px ridge cyan;
-  outline-offset: 4px;
-}
-*/
-/*
-#top {
-  height: 67%;
-  background: linear-gradient(transparent 50%, hotpink 160%);
-  box-shadow: 0 15px 50px 1px white;
-  position: relative;
-}
-*/
 #sky {
   position: absolute;
   top: 0;
@@ -58,23 +36,6 @@ html> body{
   opacity: 0.2;
 }
 
-/*
-#ground {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 55%;
-  background: repeating-linear-gradient(
-      white 2px,
-      transparent 3px,
-      transparent 30px
-    ),
-    repeating-linear-gradient(90deg, white 2px, transparent 3px, transparent 40px);
-  filter: drop-shadow(0 0 1px cyan) drop-shadow(0 0 3px cyan)
-    drop-shadow(0 0 7px cyan);
-  animation: move 10s linear infinite;
-}
-*/
 #text {
   position: absolute;
   z-index: 10;
@@ -144,6 +105,8 @@ h2 {
 }
 
 /* /////////////////////////////////////////////////////*/
+
+
 /* ESTILIZAÇÃO DO TITULO */
 
 /*h1 {
