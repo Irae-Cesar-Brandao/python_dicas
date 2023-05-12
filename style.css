@@ -8,18 +8,6 @@ html> body{
     	text-align: center;
         color: rgb(238, 233, 233);
 }
-/* ESTILIZAÇÃO DO TITULO DO CABEÇALHO */
-h8 {
-	color: yellow;
-  	font-size: 60px;
-  	font-family: monospace;
-  	font-weight: bold;
- 	text-align: center;
-  	text-shadow: 
-      	1px -1px 0 #2f5d87,
-      	2px -2px 0 #3c832e, 
-      	3px -3px 0 #f4f5f2;
-}
 
 /* ESTILIZAÇÃO DEMAIS FONTES */
 h2 {
@@ -76,10 +64,8 @@ h7{
   	font-size: 10px;
   	font-weight: bold;
  	text-align: center;
-
-
-
 }
+
 /* ESTILIZANDO AS IMAGENS */	    
 #pineal {
          border-radius: 400px;
