@@ -16,7 +16,7 @@ html> body{
   --pink: rgba(213, 84, 213, 1);
   --pink2: rgba(213, 84, 213, 0.7);
 }
-
+/*
 #image {
   overflow: hidden;
   width: 80%;
@@ -30,6 +30,7 @@ html> body{
   outline: 8px ridge cyan;
   outline-offset: 4px;
 }
+*/
 /*
 #top {
   height: 67%;
