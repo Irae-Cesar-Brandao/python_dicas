@@ -19,6 +19,7 @@ html> body{
   --pink2: rgba(213, 84, 213, 0.7);
 }
 */
+
 #sky {
   position: absolute;
   top: 0;
@@ -50,6 +51,7 @@ html> body{
   justify-content: center;
 }
 */
+
 h1 {
   color: transparent;
   font-family: "Russo One", sans-serif;
@@ -68,7 +70,7 @@ h1 {
   filter: drop-shadow(5px 5px 1px black) drop-shadow(1px 1px 1px magenta);
   animation: bg-shift 0.5s ease-in-out infinite alternate;
 }
-/*
+
 h2 {
   color: white;
   font-family: "Yellowtail", cursive;
@@ -78,7 +80,8 @@ h2 {
   text-shadow: 0 0 3px magenta, 0 0 7px magenta, 0 0 15px black, 0 0 15px black;
   animation: hover 1s ease-in-out infinite;
 }
-*/
+
+/*
 @keyframes move {
   to {
     background-position-y: 2000px;
@@ -105,7 +108,7 @@ h2 {
     transform: translatey(-10px) rotatez(-5deg) perspective(200px) translatez(0);
   }
 }
-
+*/
 /* /////////////////////////////////////////////////////*/
 
 
